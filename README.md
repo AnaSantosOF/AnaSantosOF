@@ -1,4 +1,4 @@
-## 👩🏻‍💻 Ana San
+## 👩🏻‍💻 Ana Santos
 
 **`Software Enginner | Java | Spring Boot | Angular | Dev Back-end `**
 
