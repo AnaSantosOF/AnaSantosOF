@@ -1,4 +1,4 @@
-## 👩🏻‍💻 Ana Santos
+## 👩🏻‍💻 Ana San
 
 **`Software Enginner | Java | Dev Back-end`**
 
