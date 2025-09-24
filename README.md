@@ -1,6 +1,6 @@
 ## 👩🏻‍💻 Ana Santos
 
-**`Software Enginner | Java | Spring Boot | Angular | Dev Back-end `**
+**`Software Engineer | Security Focus | Java | Spring Boot | Angular | Dev Back-end `**
 
 Me chamo Ana Santos, tenho 20 anos e sou natural do Rio de Janeiro. Estou terminando o bacharelado em Engenharia de Software e sempre concluindo cursos complementares da area. Foco em desenvolvimento back-end, utilizando principalmente Java e seu ecossistema (Spring Boot, JPA, etc.). Aqui voce vera meus projetos pessoais, aprendizados e contribuição para a comunidade iniciante e intermediaria em Java. 
 
