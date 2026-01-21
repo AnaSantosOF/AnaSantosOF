@@ -2,7 +2,7 @@
 
 **`Software Engineer | Security Focus | Java | Spring Boot | Angular | Dev Back-end `**
 
-My name is Ana Santos, I'm 20 years old, and I'm originally from Rio de Janeiro. I'm currently finishing my bachelor's degree in Software Engineering while continuously taking complementary courses in the field. I specialize in back-end development, primarily using Java and its ecosystem (Spring Boot, JPA, and more). Here, you'll find my personal projects, key learnings, and contributions to the beginner and intermediate Java community. 
+My name is Ana Santos, I'm 21 years old, and I'm originally from Rio de Janeiro. I'm currently finishing my bachelor's degree in Software Engineering while continuously taking complementary courses in the field. I specialize in back-end development, primarily using Java and its ecosystem (Spring Boot, JPA, and more). Here, you'll find my personal projects, key learnings, and contributions to the beginner and intermediate Java community. 
 
 </p>
     </a> 
