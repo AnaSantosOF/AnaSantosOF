@@ -23,4 +23,4 @@ Here you'll find personal projects, experiments, and contributions aimed at the 
         />
     </a>
 </p>
-/>
+
