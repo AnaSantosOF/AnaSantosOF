@@ -1,6 +1,6 @@
 ## 👩🏻‍💻 Ana Santos
 
-**`Software Engineer | Full Stack | Java Mid-Level | Spring Boot | Angular | React | Node.js`**
+**`Software Engineer | Full Stack | Java | Spring Boot | Angular | React | Node.js`**
 
 Software Engineering student based in Rio de Janeiro, specializing in back-end development with Java and its ecosystem Spring Boot, JPA, REST APIs. Currently expanding into full stack with React and Node.js.
 
